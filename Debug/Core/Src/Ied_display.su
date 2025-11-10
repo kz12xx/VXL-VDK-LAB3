@@ -1,0 +1,7 @@
+Ied_display.c:5:13:display7SEG	16	static
+Ied_display.c:107:6:resetCountValue	4	static
+Ied_display.c:114:6:NormalMode	8	static
+Ied_display.c:200:12:get7SEG1Value	4	static
+Ied_display.c:215:12:get7SEG2Value	4	static
+Ied_display.c:232:6:LedDispMode	8	static
+Ied_display.c:279:6:LEDScanning	8	static
